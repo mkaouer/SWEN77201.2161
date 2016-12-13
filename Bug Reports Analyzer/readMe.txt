@@ -1,6 +1,5 @@
 SETTING UP AND RUNNING THE TOOLS
 --------------------------------
---------------------------------
 
 SETTING THE GITHUB BUG REPORTS EXTRACTOR TOOL
 ---------------------------------------------
