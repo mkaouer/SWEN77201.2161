@@ -16,7 +16,7 @@ VIDEO ABOUT HOW YOU CAN SET UP AND RUN THE TOOL:
 https://youtu.be/DF8_RLVI3jQg
 
 
-MAINTAINERS
+MAINTENANCE
 -----------
 If there is any problem in running the tool, 
 Please don't hesitate to contact us: 

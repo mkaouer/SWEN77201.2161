@@ -38,3 +38,14 @@ https://youtu.be/PJcKdCFsxPA
 
 3. Inserting the Data to the DB and Querying
 https://youtu.be/DiRfUS0_8tE
+
+
+MAINTENANCE
+-----------
+If there is any problem in running the tool, 
+Please don't hesitate to contact us: 
+
+- Ibrahim Aldosari: ima9428@rit.edu
+- Jan Guillermo: jg7934@rit.edu
+- Priyanka Honnakasturi ph9128@rit.edu
+- Wajdi Mohammed Aljedaani: wma4844@rit.edu

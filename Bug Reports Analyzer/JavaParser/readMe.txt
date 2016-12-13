@@ -13,7 +13,7 @@ VIDEO ABOUT HOW YOU CAN SET UP AND RUN THE TOOL:
 https://youtu.be/PJcKdCFsxPA
 
 
-MAINTAINERS
+MAINTENANCE
 -----------
 If there is any problem in running the tool, 
 Please don't hesitate to contact us: 
