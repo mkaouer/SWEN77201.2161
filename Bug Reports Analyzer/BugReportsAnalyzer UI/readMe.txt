@@ -1,6 +1,8 @@
 Bug Reports Analyzer UI
 -----------------------
 
+Website URL: Website URL: https://people.rit.edu/ima9428/bugreportanalyzer%20_website/
+
 This website is example of how you can make A GUI for the this project. The project we used to generate the data used in the website are taken from Signal App for Android which can be found in this link below:
 https://github.com/WhisperSystems/Signal-Android
 
