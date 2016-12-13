@@ -3,7 +3,7 @@ JavaParser Tool
 SETTING THE TOOL
 -----------------------------
 1. Import the Java project to eclipse.
-2. Change the path in the source code to the location of your Java project which you would like to parse.
+2. Change the path in the source code in line 28 to the location of your Java project which you would like to parse.
 3. Run the tool by clicking on the run button in Eclipse.
 4. The results of the parsed project will be stored on your desktop as CSV file.
 
