@@ -2,7 +2,7 @@ GITHUB BUG REPORTS EXTRACTOR TOOL
 
 
 SETTING THE TOOL
------------------------------
+----------------
 1. Unzip the "BugsReportsExtractor.zip”
 2. Open terminal or command prompt.
 3. Change the location to the tool location.
@@ -11,8 +11,8 @@ SETTING THE TOOL
 6. The tool will generate three excel files and store them in the tool location.
 
 
-VIDEO ABOUT HOW YOU CAN SET UP AND RUN THE TOOL:
------------------------------
+VIDEO ABOUT HOW YOU CAN SET UP AND RUN THE TOOL
+-----------------------------------------------
 https://youtu.be/DF8_RLVI3jQg
 
 
