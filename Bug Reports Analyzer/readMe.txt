@@ -29,8 +29,8 @@ UNDERSTAND TOOL
 After generating the CSV files from the tools listed above, insert all the files into your database and then you will be able to start query.
 
 
-VIDEO ABOUT HOW YOU CAN SET UP AND RUN THE TOOLs:
------------------------------
+VIDEO ABOUT HOW YOU CAN SET UP AND RUN THE TOOLS:
+------------------------------------------------
 
 1. GitHub Bug Reports Extractor Tool
 https://youtu.be/DF8_RLVI3jQg
