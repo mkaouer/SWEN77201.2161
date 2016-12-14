@@ -1,6 +1,5 @@
 SETTING UP AND RUNNING THE TOOLS
 --------------------------------
---------------------------------
 
 SETTING THE GITHUB BUG REPORTS EXTRACTOR TOOL
 ---------------------------------------------
@@ -40,6 +39,14 @@ https://youtu.be/PJcKdCFsxPA
 
 3. Inserting the Data to the DB and Querying
 https://youtu.be/DiRfUS0_8tE
+
+
+BUG REPORTS ANALYZER WEBSITE
+----------------------------
+Website URL: https://people.rit.edu/ima9428/bugreportanalyzer%20_website/
+
+This website is example of how you can make A GUI for the this project. The project we used to generate the data used in the website are taken from Signal App for Android which can be found in the link below:
+https://github.com/WhisperSystems/Signal-Android
 
 
 MAINTENANCE
