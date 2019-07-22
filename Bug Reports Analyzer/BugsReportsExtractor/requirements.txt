@@ -14,7 +14,7 @@ protobuf==2.6.1
 psycopg2==2.6.2
 pypiwin32==219
 python-dateutil==2.5.3
-requests==2.10.0
+requests==2.20.0
 s2sphere==0.2.4
 selenium==2.53.6
 SimplePool==0.1
