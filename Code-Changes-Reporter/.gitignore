@@ -1,0 +1,13 @@
+.DS_Store
+*.class
+**/ReleaseDownloads
+*.db
+target
+.env
+.idea/
+*.iml
+.project
+.classpath
+.settings
+bin
+.git
